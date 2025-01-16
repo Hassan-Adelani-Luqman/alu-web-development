@@ -1,4 +1,4 @@
 This is the README file for this directory.
 This directory contains the css file for styling the webpage
-![image](https://github.com/user-attachments/assets/9ea5d97c-24b4-463c-8a71-cb04603d1efc)
 
+![WhatsApp Image 2025-01-16 at 23 07 13_b0a6d777](https://github.com/user-attachments/assets/bf2bd274-63a1-4108-a190-fe79bca3f006)
